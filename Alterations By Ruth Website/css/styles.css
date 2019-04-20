@@ -1,2 +1,48 @@
+body {
+  font-family: "Montserrat";
+}
+
+.container-fluid-cream{
+  padding: 10% 15%;
+  background-color: #FBFCF1;
+}
+
+.container-fluid-green{
+  padding: 10% 15%;
+  background-color: #BBCF32;
+}
+
+.container-fluid-pink{
+  padding: 10% 15%;
+  background-color: #F6A7BA;
+}
+
+
+.jumbotron{
+  background-color: #F6A7BA;
+}
+
+
+h1 {
 font-family: 'Montserrat', sans-serif;
-font-family: 'Ubuntu', sans-serif;
+font-size: 3rem;
+line-height: 1.5;
+}
+
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+/* Navigation Bar */
+.navbar {
+  background-color: #F6A7BA;
+  border-color: #F6A7BA;
+  padding-bottom: 2.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 3rem;
+
+}
